@@ -1,0 +1,86 @@
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\ApplicationInsights.config
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\roslyn\csc.exe
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\roslyn\vbc.exe
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\System.Web.Http.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\System.Web.Http.xml
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.CopyComplete
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\Darshit\Downloads\UniversityManagementSystem-master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\ApplicationInsights.config
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\csc.exe
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\vbc.exe
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AI.Web.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.ApplicationInsights.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\System.Net.Http.Formatting.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Http.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Http.WebHost.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AI.Web.xml
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.ApplicationInsights.xml
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\System.Net.Http.Formatting.xml
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Http.xml
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Http.WebHost.xml
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.AssemblyReference.cache
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.CoreCompileInputs.cache
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.CopyComplete
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+F:\classroom\Sem 5\WAD\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
